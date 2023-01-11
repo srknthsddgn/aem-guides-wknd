@@ -1,3 +1,4 @@
+#!/bin/bash
 TIME=`date +%d%m%Y_%H%M`
                            cd /var/lib/jenkins/workspace/Test_1
                            mkdir zipfiles
